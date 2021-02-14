@@ -8,21 +8,27 @@ html {
     width: 1208px;
     margin-left: auto;
     margin-right: auto;
+
 }
 footer {
     text-align: center;
 }
+
+body {
+    text-align: center;
+}
 h1 {
+    text-align: center;
     font-size: 200%;
 }
 h2 {
     font-size: 180%;
 }
 h3 {
-    font-size: 160%;
+    font-size: 50%;
 }
 menu {
-    padding-left: 0;
+    padding-left: 30px;
 }
 menu li {
     display: inline;
